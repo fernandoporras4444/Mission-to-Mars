@@ -11,7 +11,8 @@ The purpose of the project was use web scraping tools and coding to gather infor
     - https://marshemispheres.com
 
   - Website view:
-    - 
+  
+      ![Mission to Mars Challenge](https://user-images.githubusercontent.com/92836648/149024103-f87a7e2b-9601-4cab-8bac-126eb56e2e5f.png)
 
 ## Summary:
 Throughout the process of building code for web scraping it gave me new ideas and possibilities of how use this in current position supporting renewable energy generation.
